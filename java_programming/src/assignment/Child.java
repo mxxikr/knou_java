@@ -1,4 +1,4 @@
-package knou.java.mxxikr.assignment;
+package assignment;
 
 class Child extends Parent {
     void show() {

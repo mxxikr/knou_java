@@ -1,4 +1,4 @@
-package knou.java.mxxikr.thefrist;
+package thefrist;
 
 public class GradeOutput {
     public static void main(String args[]) {

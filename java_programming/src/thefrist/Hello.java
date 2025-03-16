@@ -1,4 +1,4 @@
-package knou.java.mxxikr.thefrist;
+package thefrist;
 
 /**
  * The Hello class implements an application that

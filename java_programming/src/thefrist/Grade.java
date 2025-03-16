@@ -1,4 +1,4 @@
-package knou.java.mxxikr.thefrist;
+package thefrist;
 
 class Grade { // 성적 클래스
     int e; //영어 성적을 위한 변수

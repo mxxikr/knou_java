@@ -1,4 +1,4 @@
-package knou.java.mxxikr.assignment;
+package assignment;
 
 public class JavaTest5 {
     public static void main(String[] args) {
