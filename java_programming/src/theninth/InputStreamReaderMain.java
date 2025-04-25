@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 public class InputStreamReaderMain {
     public static void main(String args[]) {
-        try (InputStreamReader isr = new InputStreamReader(System.in, "euc-kr")) {
+        try (InputStreamReader isr = new InputStreamReader(System.in, "UTF-8")) {
             int i; // 변수 i 선언
 
             // 입력의 끝을 확인하는 방법 수정
